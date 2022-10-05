@@ -10,7 +10,7 @@
 
 - 🌱 As of right now, I am learning **MERN tech**
 
-- 💬 Get in touch with me about **react, js , node**
+- 💬 Get in touch with me about **react, node, javascript**
 
 - 📫 I can be reached at **coading2020@gmail.com**
 
