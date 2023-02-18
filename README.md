@@ -12,7 +12,7 @@
 
 - 💬 Get in touch with me about **react, node, javascript**
 
-- 📫 I can be reached at **coading2020@gmail.com**
+- 📫 I can be reached at **pra.rahul180@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
