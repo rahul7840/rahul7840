@@ -14,13 +14,17 @@
   <img src="https://komarev.com/ghpvc/?username=rahul7840&label=Profile%20views&color=0e75b6&style=flat" alt="rahul7840"/>
 </p>
 
+- 💻 I never tire of discussing **backend** topics
+
 - 🔭 Currently, I'm working on **videocall web**
 
-- 🌱 As of right now, I am learning **MERN stack**
+- 🌱 As of right now, I am learning **DevOps**
 
-- 💬 Get in touch with me about **React, Node.js, and JavaScript**
+- 💬 Get in touch with me about **Node.js, JavaScript and backend**
 
 - 📫 Reach me at **pra.rahul180@gmail.com**
+
+- ⚡ Fun fact: I'm an avid **coffee enthusiast** and always up for a chat about the best brews!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
